@@ -13,4 +13,5 @@ a collection of security measures designed to protect cloud-based infrastructure
 keeping software and devices free of threats. A compromised application could provide access to the data its designed to protect. Successful security begins in the design stage, well before a program or device is deployed.
 ### Network Security:
 a set of technologies that protects the usability and integrity of a company's infrastructure by preventing the entry or proliferation within a network of a wide variety of potential threats.
+
 [Next Page](SCHOOL.md)
