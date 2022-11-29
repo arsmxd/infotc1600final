@@ -14,6 +14,5 @@ keeping software and devices free of threats. A compromised application could pr
 ### Network Security:
 a set of technologies that protects the usability and integrity of a company's infrastructure by preventing the entry or proliferation within a network of a wide variety of potential threats.
 
-[Next Page](SmartDevices.md)
+[Back Page](README.md)                                                    [Next Page](SmartDevices.md)
 
-[Back Page](README.md)
