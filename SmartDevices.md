@@ -14,3 +14,7 @@ Baby Monitors
 and more
 
 For more information click [here](https://www.trendmicro.com/vinfo/fr/security/news/internet-of-things/inside-the-smart-home-iot-device-threats-and-attack-scenarios)
+
+[Next Page](Overall.md)
+
+[Back Page](ITSecurity.md)
