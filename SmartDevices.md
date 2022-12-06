@@ -1,5 +1,5 @@
 # Why Smart Devices Can Cause Issues
-Smart Home and IoT devices are increasingly being targeted by hackers as the weak point of any home or enterprise security network. Imagine what would happen if someone hacks a single device and obtains all your Wi-Fi credentials. Perhaps worse, what if a cybercriminal gains access to your smart thermostat and learns when you’ll be away? They may use that information to determine the best time to burgle your home. If someone compromises your connected home, your data could easily be leaked.
+Smart Home and IoT devices are increasingly being targeted by hackers as the weak point of any home or enterprise security network. Imagine what would happen if someone hacks a single device and obtains all your Wi-Fi credentials. Perhaps worse, what if a cybercriminal gains access to your smart thermostat and learns when you’ll be away? They may use that information to determine the best time to break into your home. If someone compromises your connected home, your data could easily be leaked.
 ### Devices That Can Be Affected:
 Cell Phones
 
@@ -7,7 +7,7 @@ Computers
 
 Smart TVs
 
-Voice Controlled Assistants (Alexa)
+Voice Controlled Assistants (Alexa or Homepods etc.)
 
 Baby Monitors
 
