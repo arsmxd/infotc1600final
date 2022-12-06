@@ -5,6 +5,6 @@ Hackers can target our personal information, see inside our homes, and even stea
 
 It is important to be safe online, protect your devices, and only use trusted sites.
 
-For more information how to be safe online, click [here](https://mindmajix.com/top-10-cybersecurity-best-practices)
+For more information on how to be safe online, click [here](https://mindmajix.com/top-10-cybersecurity-best-practices)
 
 [Back Page](SmartDevices.md)
